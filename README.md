@@ -16,3 +16,10 @@ The styles.css file provides the styling for our weather widget. These styles se
 The script.js file handles the functionality of fetching and displaying weather data. To generate our API key, we need to log in to the OpenWeatherMap API, click on register,click on my API keys,generate our API key, and copy it. In script.js, we define constants to store our OpenWeatherMap API key and base URL. The getWeather function retrieves the city name from the input field, constructs the API URL, makes a fetch request to the API, and calls the displayWeather function with the response data. The displayWeather function updates the DOM elements with the fetched data. If the data is invalid, it sets default "Not found" or "N/A" values.
 
 This project demonstrates a simple yet effective way to create a weather webpage using HTML, CSS, and JavaScript. It involves fetching data from an external API, handling user input, and dynamically updating the webpage content. The combination of a clean HTML structure, responsive CSS styling, and JavaScript functionality makes this project an excellent starting point for anyone looking to learn web development and API integration.
+
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/a9d6d159-cbda-4cc3-a910-cbefb32f544f)
+![Image](https://github.com/user-attachments/assets/f3a15462-cf1c-4ba4-814e-a195c7e4c5d3)
+![Image](https://github.com/user-attachments/assets/7104bafc-ad8f-4ef8-a431-b79c7ec36865)
+
