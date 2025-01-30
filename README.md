@@ -20,6 +20,8 @@ This project demonstrates a simple yet effective way to create a weather webpage
 
 
 **OUTPUT**
+
+
 ![Image](https://github.com/user-attachments/assets/a9d6d159-cbda-4cc3-a910-cbefb32f544f)
 ![Image](https://github.com/user-attachments/assets/f3a15462-cf1c-4ba4-814e-a195c7e4c5d3)
 ![Image](https://github.com/user-attachments/assets/7104bafc-ad8f-4ef8-a431-b79c7ec36865)
